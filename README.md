@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente não estou atuando de forma profissonal;
 - 🌱 Atualmente estou aprendendo C++;
-- 🤝 Busoco contribuir em projetos em Sistemas de gestão de pequeno/médio porte;
+- 🤝 Busco contribuir em projetos em Sistemas de gestão de pequeno/médio porte;
 - 🤔 Estou buscando ajuda em Banco de Dados;
 
 ##
